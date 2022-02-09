@@ -1,0 +1,12 @@
+{
+    "id": "",
+    "name": "",
+    "transactions": [
+        {
+            "transactionId": "1234",
+            "customerId": "101",
+            "amount": "120",
+            "date": "2022-02-02"
+        }
+    ]
+}
